@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title> 셀카 </title>
+  <style> 
+  p { text-align: center;}
+  </style>
+ </head>
+ <body>
+  <h3> 나의 셀카 </h3> <hr>
+  <p> 나의 셀카 </p>
+
+
+  <img scr="penguins.jpg" alt="나" width="500"/>
+  <img scr="Penguins2.jpg" alt="나" width="300"/>
+  <img scr="penguins3.jpg" alt="나" width="300"/>
+
+
+
+ </body>
+</html>
