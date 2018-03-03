@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+ <head>
+	<title>Document</title>
+	<style> 
+		h1 {
+			color: red;
+			background: black;
+			}
+
+	<!--많은 부분의 h1 한번에 바꿔줌-->
+	</style>
+	 
+ </head>
+ <body>
+	<h1> Hello World ...!</h1>
+ </body>
+</html>
